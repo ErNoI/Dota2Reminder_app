@@ -1,25 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -57,7 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ### Dota Buddy
 <p>
@@ -65,14 +43,19 @@ Your Game-Changing Sidekick
 Hey, Dota champs! Meet Dota Buddy, your ultimate game wingman designed to keep you in the loop with all the nitty-gritty stuff while you conquer the battlefield in Dota 2. It’s like having a personal alert system to keep you on your toes and ahead of the game!
 <p>
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 Getting Started
+Download this project. Extract Dota2Reminder.rar and then start the exe file.
 
 ### Installation
+First time you start the application you will be promted that the steam path is not set. Press the cogwheel in the upper right corner and then press the "set steam path" button(Check picture below)
+Navigate to tour steam folder and set it. You might have to restart dota if its running during the installation.
+
 
 Installation
 
