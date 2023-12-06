@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dota 2 Reminder</h3>
@@ -78,9 +78,9 @@ Installation
 
 <!-- ROADMAP -->
 ## Roadmap
-- [x] Sound Notifications
-- [x] Roshan event
-- [x] User configuration
+- [] Sound Notifications
+- [] Roshan event
+- [] User configuration
 
 
 
@@ -93,4 +93,5 @@ While every effort has been made to ensure the reliability and safety of this ap
 <p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /screenshot.png
+
