@@ -49,7 +49,6 @@ Hey, Dota champs! Meet Dota Buddy, your ultimate game wingman designed to keep y
 <!-- GETTING STARTED -->
 ## Getting Started
 
-###Getting Started
 Download this project. Extract Dota2Reminder.rar and then start the exe file.
 
 ### Installation
