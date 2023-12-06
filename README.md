@@ -93,5 +93,5 @@ While every effort has been made to ensure the reliability and safety of this ap
 <p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[product-screenshot]: /screenshot.png
+[product-screenshot]: /app.png
 
