@@ -70,7 +70,7 @@ Navigate to tour steam folder and set it. You might have to restart dota if its 
 <!-- LICENSE -->
 ## Disclaimer
 <p>
-While every effort has been made to ensure the reliability and safety of this application, the developers and creators of this software do not take responsibility for any unintended consequences, damage, or malfunctions that may occur on your device while using this application. Users are advised to use this software at their own risk and discretion. It is recommended to have proper backups and exercise caution when installing or using third-party applications.
+While every effort has been made to ensure the reliability and safety of this application, the developers and creators of this software do not take responsibility for any unintended consequences, damage, or malfunctions that may occur on your device while using this application. Users are advised to use this software at their own risk and discretion.
 <p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
