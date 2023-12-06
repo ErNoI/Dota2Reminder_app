@@ -55,6 +55,7 @@ Download this project. Extract Dota2Reminder.rar and then start the exe file.
 First time you start the application you will be promted that the steam path is not set. Press the cogwheel in the upper right corner and then press the "set steam path" button(Check picture below)
 Navigate to tour steam folder and set it. You might have to restart dota if its running during the installation.
 
+[![Product Name Screen Shot][installation-screenshot]](https://example.com)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -74,4 +75,5 @@ While every effort has been made to ensure the reliability and safety of this ap
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [product-screenshot]: /app.png
+[installation-screenshot]: /apppath.png
 
