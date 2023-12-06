@@ -78,9 +78,9 @@ Installation
 
 <!-- ROADMAP -->
 ## Roadmap
-- [x] Sound Notifications
-- [x] Roshan event
-- [x] User configuration
+- [] Sound Notifications
+- [] Roshan event
+- [] User configuration
 
 
 
