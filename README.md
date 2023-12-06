@@ -49,15 +49,13 @@ Hey, Dota champs! Meet Dota Buddy, your ultimate game wingman designed to keep y
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Getting Started
+###Getting Started
 Download this project. Extract Dota2Reminder.rar and then start the exe file.
 
 ### Installation
 First time you start the application you will be promted that the steam path is not set. Press the cogwheel in the upper right corner and then press the "set steam path" button(Check picture below)
 Navigate to tour steam folder and set it. You might have to restart dota if its running during the installation.
 
-
-Installation
 
 <!-- ROADMAP -->
 ## Roadmap
